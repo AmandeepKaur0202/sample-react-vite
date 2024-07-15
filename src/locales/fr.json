@@ -1,0 +1,13 @@
+{
+  "addItem": "Ajouter un article",
+  "editItem": "Modifier l'article",
+  "deleteItem": "Supprimer l'article",
+  "confirmDelete": "Êtes-vous sûr de supprimer cet article?",
+  "deleteAction": "Cette action ne peut pas être annulée.",
+  "yes": "Oui",
+  "no": "Non",
+  "name": "Nom",
+  "add": "Ajouter",
+  "update": "Mettre à jour",
+  "cancel": "Annuler"
+}

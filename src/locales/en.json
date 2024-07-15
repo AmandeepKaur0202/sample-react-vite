@@ -1,0 +1,15 @@
+{
+    "addItem": "Add",
+    "editItem": "Edit Item",
+    "deleteItem": "Delete Item",
+    "confirmDelete": "Are you sure delete this item?",
+    "deleteAction": "This action cannot be undone.",
+    "yes": "Yes",
+    "no": "No",
+    "name": "Name",
+    "title": "Title",
+    "add": "Add",
+    "update": "Update",
+    "cancel": "Cancel"
+  }
+  
